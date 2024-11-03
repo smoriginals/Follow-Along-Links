@@ -1,0 +1,19 @@
+{
+  "name": "follow-along-links",
+  "version": "1.0.1",
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "eslint": "^9.13.0"
+  },
+  "main": "app.js",
+  "package": {},
+  "requires": true,
+  "scripts": {
+    "start": "browser-sync start --server --files 'style.css, index.html, app.js'"
+  },
+  "keywords": [],
+  "author": "SMOS",
+  "license": "ISC",
+  "lockfileVersion": 3,
+  "description": "follow along links"
+}
