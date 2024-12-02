@@ -1,2 +1,1 @@
-# Follow-Along-Links
- Follow-Along-Links
+[OPEN IN BROWSER](https://smos-github.github.io/Follow-Along-Links/)
