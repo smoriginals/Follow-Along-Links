@@ -1,6 +1,6 @@
 # About 
 
-## [Stripe.com]() UI Navigation
+## [Stripe.com](https://stripe.com/in) UI Navigation
 
 This is a simple project inspired by Stripe.com. It features a smooth slime effect on hover for specific words, achieved through targeted CSS styling. This effect enhances the user interface by drawing attention and encouraging users to stay longer on your website.
 # Acknowledgements
